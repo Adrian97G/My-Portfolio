@@ -16,3 +16,5 @@ Welcome to my personal portfolio! Here you can find some of the projects I have 
 ## :link: Link to see the project in action
 
 [Here you can visit my website](https://my-portfolio-adrian-dev.netlify.app/)
+
+## :wave: Greetings!!
